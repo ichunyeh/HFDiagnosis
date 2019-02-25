@@ -24,17 +24,19 @@ image/ : store all images and documents using in README.md
 ## Infrastructure
 
 - Flowchart of the system<br>
-  <img src="image/flowchart.png" width="75%">
+  <img src="image/flowchart.png" width="60%">
 <br><br>
-- 13-10-2 ANN model<br>
-  <img src="image/ann.png" width="75%">
+- Model<br>
+  <img src="image/ann.png" width="60%">
 
 
 ## Result
 
-<img src="image/user_interface.png" width="75%">
+<img src="image/user_interface.png" width="50%">
+- Predict Heart Failure Risk
+- Add/Edit Patient
 
 
 ## Detailed
 
-[explanatory paper](image/PW3 Report.pdf)
+[explanatory paper](image/PW3Report.pdf)
