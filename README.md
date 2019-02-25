@@ -33,7 +33,7 @@ image/ : store all images and documents using in README.md
 ## Result
 
 <img src="image/user_interface.png" width="50%">
-Features:
+Features:<br>
 - Predict Heart Failure Risk<br>
 - Add/Edit Patient
 
