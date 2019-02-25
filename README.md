@@ -24,16 +24,16 @@ image/ : store all images and documents using in README.md
 ## Infrastructure
 
 - Flowchart of the system<br>
-  <img src="image/flowchart.png" width="60%">
+  <img src="image/flowchart.png" width="65%">
 <br><br>
 - Model<br>
-  <img src="image/ann.png" width="60%">
+  <img src="image/ann.png" width="65%">
 
 
 ## Result
 
 <img src="image/user_interface.png" width="50%">
-- Predict Heart Failure Risk
+- Predict Heart Failure Risk<br>
 - Add/Edit Patient
 
 
