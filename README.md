@@ -33,10 +33,11 @@ image/ : store all images and documents using in README.md
 ## Result
 
 <img src="image/user_interface.png" width="50%">
+Features:
 - Predict Heart Failure Risk<br>
 - Add/Edit Patient
 
 
 ## Detailed
 
-[explanatory paper](image/PW3Report.pdf)
+[Explanatory Paper](image/PW3Report.pdf)
